@@ -44,8 +44,8 @@ The following tasks were performed in this project:
 
 ## Files
 
-* `[Employee_reimbursement_dataset.xlsx](https://github.com/shlokdmehta/PowerBi----Employee_reimbursement/blob/main/Employee_reimbursement_dataset.xlsx)`: The original dataset.
-* `[[Your Power BI file name].pbix](https://github.com/shlokdmehta/PowerBi----Employee_reimbursement/blob/main/Employee_reimbursement_dataset_powerBi.pbix)`: The Power BI file containing the data transformations, measures, and visualizations.
+* `(Employee_reimbursement_dataset.xlsx)`: The original dataset. - https://github.com/shlokdmehta/PowerBi----Employee_reimbursement/blob/main/Employee_reimbursement_dataset.xlsx
+* `(Employee_reimbursement_dataset_powerBi.pbix)`: The Power BI file containing the data transformations, measures, and visualizations. - https://github.com/shlokdmehta/PowerBi----Employee_reimbursement/blob/main/Employee_reimbursement_dataset_powerBi.pbix
 
 ## Tools Used
 
